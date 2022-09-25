@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661140127 source:c:\users\sompa\desktop\midpoint\circle.cpp
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+
